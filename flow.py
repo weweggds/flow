@@ -15,7 +15,7 @@ def banner():
 \t__  /_    __  / _  __ \__ | /| / /
 \t_  __/    _  /  / /_/ /__ |/ |/ / 
 \t/_/       /_/   \____/ ____/|__/
-                         ''','(',colorama.Fore.RED+'by',colorama.Back.WHITE+colorama.Fore.BLACK+' DenisKrupina',')','''
+                         ''','(',colorama.Fore.RED+'by',colorama.Back.WHITE+colorama.Fore.BLACK+' denkus24',')','''
 ''')
     print('\n')
 banner()
