@@ -7,7 +7,7 @@ Flow - программа для спама на электронную почт
   <li>apt upgrade</li>
   <li>apt install python</li>
   <li>apt install git</li>
-  <li>git clone https://github.com/deniskrupina/flow</li>
+  <li>git clone https://github.com/denkus24/flow</li>
 </ul>
 <h2>Установка на Linux(Ubuntu)</h2>
 <ul>
@@ -15,7 +15,7 @@ Flow - программа для спама на электронную почт
   <li>sudo apt-get upgrade</li>
   <li>sudo apt-get install git</li>
   <li>sudo apt-get install python3.6 (и выше)</li>
-  <li>git clone https://github.com/deniskrupina/flow</li>
+  <li>git clone https://github.com/denkus24/flow</li>
 </ul>
 <h2>Установка на Windows</h2>
 <h4>1 вариант</h4>
@@ -25,7 +25,7 @@ Flow - программа для спама на электронную почт
 <h4>2 вариант</h4>
 <ul>
   <li>*Установите git*</li>
-  <li>git clone https://github.com/deniskrupina/flow</li>
+  <li>git clone https://github.com/denkus24/flow</li>
 </ul>
 <h1>2 шаг. Запуск</h1>
 <h2>Запишите в bots.fb аккаунты Google в таком формате:</h2>
