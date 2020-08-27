@@ -67,10 +67,6 @@ def spam(login,passw,to):
         print(colorama.Fore.CYAN+'\tMessages sent:','\t',count)
         s.quit()
 target = input('Target: ')
-if target == 'krupinad8@gmail.com':
-    print('\t    Fuck you')
-    sleep(2)
-    sys.exit()
 check_connection()
 clean()
 banner()
